@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6247f37cf8c471883707450d"
+  },
+  "locationName": "fulmer dumpster",
+  "xCoord": 33.778525,
+  "yCoord": -84.403702
+},{
+  "_id": {
+    "$oid": "6247f37cf8c471883707450e"
+  },
+  "locationName": "willage",
+  "xCoord": 33.779218,
+  "yCoord": -84.405114
+},{
+  "_id": {
+    "$oid": "6247f5d729d3f41e476df98a"
+  },
+  "locationName": "brittain",
+  "xCoord": 33.772293,
+  "yCoord": -84.391277
+},{
+  "_id": {
+    "$oid": "6247fae6f8c4718837074510"
+  },
+  "locationName": "Driftwood Beach",
+  "xCoord": 31.102887,
+  "yCoord": -81.404194
+},{
+  "_id": {
+    "$oid": "6247fae6f8c4718837074511"
+  },
+  "locationName": "Tybee Island",
+  "xCoord": 32.018158,
+  "yCoord": -80.869213
+},{
+  "_id": {
+    "$oid": "6247fae6f8c4718837074512"
+  },
+  "locationName": "Kings Ferry",
+  "xCoord": 31.991248,
+  "yCoord": -81.268558
+}]
